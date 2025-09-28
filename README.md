@@ -1,4 +1,4 @@
-# TradSpire - Eterspire Item Trading Platform
+# TradeSpire - Eterspire Item Trading Platform
 
 ## Disclaimer
 
